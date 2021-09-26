@@ -1,2 +1,2 @@
-# Freediver
+freediver.py
 First project
